@@ -1,0 +1,18 @@
+.review-img{}
+.review-img img{
+    width:91px;
+}
+.review-area{
+    width: 700px;
+    border: 1px solid gray;
+    padding: 10px 20px;
+    margin-bottom: 21px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.review-info button{
+    padding: 3px 40px;
+    font-size: 30px;
+    cursor: pointer;
+}
